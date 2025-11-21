@@ -24,9 +24,9 @@ Southeast Asia’s rapid construction growth is challenged by inefficient resour
 
 ![Input CSV Preview](Screenshot%20of%20Input.png)
 
-### Model Output Preview (`SustainLite_Output_Example.csv`)
+### Model Output Preview (`df.head()`)
 
-![Output CSV Preview](Sustainlite_Output_example.png)
+![Output CSV Preview](Sustainlite%20Output%20example.png)
 
 
 ## Repository Structure
