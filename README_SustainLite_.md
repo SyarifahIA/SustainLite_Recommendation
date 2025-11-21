@@ -20,9 +20,14 @@ Southeast Asia’s rapid construction growth is challenged by inefficient resour
 
 ## Example Input and Output
 
-| Input (Project Features) | Output (Recommendation) |
-|---------------------------|--------------------------|
-| **Public Building – Vietnam**<br>Budget: 4,000,000 USD<br>Material: 0.45<br>Labor: 0.30<br>Energy: 0.25 | ↑ Material +6%<br>↓ Energy −12%<br>Predicted Sustainability +10 pts<br>Estimated CO₂ −7% |
+### Input Dataset Preview (`df.head()`)
+
+![Input CSV Preview](Screenshot%20of%20Input.png)
+
+### Model Output Preview (`SustainLite_Output_Example.csv`)
+
+![Output CSV Preview](Output%20sample.png)
+
 
 ## Repository Structure
 
@@ -96,4 +101,4 @@ Zhang, L., Li, Y., & Chen, X. (2022). Multi-objective optimization of constructi
 
 Open-source for educational and research use.  
 © November 06, 2025, 1st Milestone Progress 
-
+Updated November 10, 2025, feedback on input-output
