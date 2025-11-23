@@ -20,11 +20,11 @@ Southeast Asia’s rapid construction growth is challenged by inefficient resour
 
 ## Example Input and Output
 
-### Input Dataset Preview (`df.head()`)
+### Input Dataset Preview 
 
 ![Input CSV Preview](Screenshot%20of%20Input.png)
 
-### Model Output Preview (`df.head()`)
+### Model Output Preview 
 
 ![Output CSV Preview](Sustainlite%20Output%20example.png)
 
